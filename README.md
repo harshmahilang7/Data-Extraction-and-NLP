@@ -38,13 +38,12 @@ This project focuses on data extraction and natural language processing (NLP) te
 
 2. Navigate to the project directory:
  ```bash
-  cd blackcoffer-data-extraction-nlp
+ cd blackcoffer-data-extraction-nlp
 
-3. Usage
-Data Extraction:
+3. Usage Data Extraction:
 Run data extraction scripts to gather data from various sources.
 
 ```bash
-   python main.py
+python main.py
 
-]
+
