@@ -35,3 +35,16 @@ This project focuses on data extraction and natural language processing (NLP) te
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/blackcoffer-data-extraction-nlp.git
+
+2. Navigate to the project directory:
+ ```bash
+  cd blackcoffer-data-extraction-nlp
+
+3. Usage
+Data Extraction:
+Run data extraction scripts to gather data from various sources.
+
+```bash
+   python main.py
+
+]
