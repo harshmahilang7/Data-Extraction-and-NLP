@@ -12,16 +12,7 @@ This project focuses on data extraction and natural language processing (NLP) te
 - **Sentiment Analysis**: Determine the sentiment of textual data to gauge public opinion.
 - **Topic Modeling**: Identify and extract topics from large volumes of text.
 - **Entity Recognition**: Recognize and categorize entities such as names, dates, and locations.
-- **Visualization**: Create insightful visualizations to present analysis results effectively.
 
-## Technologies Used
-
-- **Python**: Core programming language for data extraction and NLP tasks.
-- **BeautifulSoup**: For web scraping and data extraction.
-- **Pandas**: For data manipulation and analysis.
-- **NLTK**: For various NLP tasks including tokenization, stemming, and more.
-- **spaCy**: For advanced NLP tasks like named entity recognition.
-- **Matplotlib/Seaborn**: For creating visualizations to showcase data insights.
 
 ## Getting Started
 
@@ -37,13 +28,13 @@ This project focuses on data extraction and natural language processing (NLP) te
    git clone https://github.com/yourusername/blackcoffer-data-extraction-nlp.git
 
 2. Navigate to the project directory:
- ```bash
- cd blackcoffer-data-extraction-nlp
+   ```bash
+   cd blackcoffer-data-extraction-nlp
 
 3. Usage Data Extraction:
 Run data extraction scripts to gather data from various sources.
 
-```bash
-python main.py
+   ```bash
+   python main.py
 
 
